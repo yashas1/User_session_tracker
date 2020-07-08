@@ -5,18 +5,26 @@
 			"real_name": "Egon Spengler",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
-					"start_time": "Feb 1 2020  1:33PM",
-					"end_time": "Feb 1 2020 1:54PM"
+					"start_time": "Feb 01 2020  1:33PM",
+					"end_time": "Feb 01 2020 1:54PM"
 				},
 				{
-					"start_time": "Jul 8 2020  7:11AM",
-					"end_time": "Jul 8 2020 1:00PM"
+					"start_time": "Jul 08 2020  7:11AM",
+					"end_time": "Jul 08 2020 1:00PM"
                 },
                 {
-					"start_time": "Jul 8 2020  2:11AM",
-					"end_time": "Jul 8 2020 5:00AM"
+					"start_time": "Jul 03 2020  2:11AM",
+					"end_time": "Jul 03 2020 5:00AM"
+                },
+                {
+					"start_time": "Jul 05 2020  3:11AM",
+					"end_time": "Jul 05 2020 6:00AM"
+                },
+                {
+					"start_time": "Jul 05 2020  2:11AM",
+					"end_time": "Jul 05 2020 3:00AM"
 				}
-				
+			
 			]
 		},
 		{
@@ -24,16 +32,21 @@
 			"real_name": "Glinda Southgood",
 			"tz": "Asia/Kolkata",
 			"activity_periods": [{
-					"start_time": "Feb 2 2020  1:33PM",
-					"end_time": "Feb 2 2020 1:54PM"
+					"start_time": "Feb 02 2020  1:33PM",
+					"end_time": "Feb 02 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 3 2020  1:11AM",
-					"end_time": "Mar 3 2020 2:00PM"
+					"start_time": "Jul 06 2020  1:11AM",
+					"end_time": "Jul 06 2020 2:00PM"
 				},
 				{
-					"start_time": "Jul 8 2020  8:11AM",
-					"end_time": "Jul 8 2020 1:00PM"
+					"start_time": "Jul 08 2020  8:11AM",
+					"end_time": "Jul 08 2020 1:00PM"
+                },
+                
+                {
+					"start_time": "Jul 06 2020  9:11AM",
+					"end_time": "Jul 06 2020 2:00PM"
 				}
 			]
         },
@@ -42,16 +55,20 @@
 			"real_name": "zlina ",
 			"tz": "Asia/Mumbhi",
 			"activity_periods": [{
-					"start_time": "Feb 6 2020  1:33PM",
-					"end_time": "Feb 6 2020 1:54PM"
+					"start_time": "Feb 06 2020  1:33PM",
+					"end_time": "Feb 06 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 3 2020  11:11AM",
-					"end_time": "Mar 3 2020 2:00PM"
+					"start_time": "Mar 03 2020  11:11AM",
+					"end_time": "Mar 03 2020 2:00PM"
                 },
                 {
-					"start_time": "Jul 8 2020 9:11AM",
-					"end_time": "Jul 8 2020 2:00PM"
+					"start_time": "Jul 08 2020 9:11AM",
+					"end_time": "Jul 08 2020 2:00PM"
+                },
+                {
+					"start_time": "Jul 12 2020 9:11AM",
+					"end_time": "Jul 12 2020 2:00PM"
 				}
 			
 			]
@@ -61,12 +78,12 @@
 			"real_name": "Yashas Gowda",
 			"tz": "Asia/Banglore",
 			"activity_periods": [{
-					"start_time": "Feb 8 2020  3:33PM",
-					"end_time": "Feb 8 2020 3:54PM"
+					"start_time": "Feb 08 2020  3:33PM",
+					"end_time": "Feb 08 2020 3:54PM"
 				},
 				{
 					"start_time": "Mar 15 2020  2:11AM",
-					"end_time": "Mar 5 2020 4:00PM"
+					"end_time": "Mar 05 2020 4:00PM"
 				},
 				{
 					"start_time": "Mar 17 2020  5:33PM",
@@ -76,10 +93,18 @@
 					"start_time": "Mar 20 2020  5:33PM",
 					"end_time": "Mar 21 2020 8:02PM"
                 },
+                {
+					"start_time": "Jul 08 2020 01:11pm",
+					"end_time": "Jul 08 2020 3:00PM"
+				},
+                {
+					"start_time": "Jul 07 2020 02:11pm",
+					"end_time": "Jul 07 2020 4:00PM"
+                },
                 
                 {
-					"start_time": "Jul 8 2020 01:11pm",
-					"end_time": "Jul 8 2020 3:00PM"
+					"start_time": "Jul 02 2020 03:11pm",
+					"end_time": "Jul 02 2020 5:00PM"
 				}
 			
 			]
