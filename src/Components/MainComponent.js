@@ -56,7 +56,7 @@ import Login_Details from "./Login_Details"
                                         <div className="card-body" style={{boxShadow: "0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) "}}>
                                             <img  className="rounded-circle" src="https://www.advantageschools.co.uk/wp-content/uploads/2018/11/Generic-Male-Avatar-No-Profile-Picture.png" style={{width:'45px'}}></img>
      
-                                            <div style={{fontFamily:"Arial",fontSize:"10px",color:"#1569C7" }}><span style={{color:"#ff3399"}}><b>User Name - </b></span><b>{User_data.real_name}</b> </div>
+                                            <div style={{fontFamily:"Arial",fontSize:"15px",color:"#1569C7" }}><span style={{color:"#ff3399"}}><b>User Name - </b></span><b>{User_data.real_name}</b> </div>
                 
                                             <div style={{fontFamily:"Arial",fontSize:"15px" ,color:"#7575a3" }}><i className="fa fa-clock-o" style={{color:"#3399ff"}}></i> User Id -  {User_data.id} </div>
                               
