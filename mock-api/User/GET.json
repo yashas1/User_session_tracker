@@ -23,6 +23,14 @@
                 {
 					"start_time": "Jul 05 2020  2:11AM",
 					"end_time": "Jul 05 2020 3:00AM"
+                },
+                {
+					"start_time": "Jul 09 2020  3:11AM",
+					"end_time": "Jul 05 2020 4:00AM"
+                },
+                {
+					"start_time": "Jul 09 2020  5:11AM",
+					"end_time": "Jul 09 2020 6:00AM"
 				}
 			
 			]
@@ -47,6 +55,14 @@
                 {
 					"start_time": "Jul 06 2020  9:11AM",
 					"end_time": "Jul 06 2020 2:00PM"
+                },
+                {
+					"start_time": "Jul 09 2020  6:11AM",
+					"end_time": "Jul 09 2020 7:00AM"
+                },
+                {
+					"start_time": "Jul 09 2020  9:11AM",
+					"end_time": "Jul 09 2020 9:00AM"
 				}
 			]
         },
@@ -69,6 +85,11 @@
                 {
 					"start_time": "Jul 12 2020 9:11AM",
 					"end_time": "Jul 12 2020 2:00PM"
+                },
+                
+                {
+					"start_time": "Jul 09 2020  10:11AM",
+					"end_time": "Jul 09 2020 11:00AM"
 				}
 			
 			]
@@ -90,11 +111,11 @@
 					"end_time": "Mar 17 2020 8:02PM"
                 },
                 {
-					"start_time": "Mar 20 2020  5:33PM",
+					"start_time": "Mar 20 2020 5:33PM",
 					"end_time": "Mar 21 2020 8:02PM"
                 },
                 {
-					"start_time": "Jul 08 2020 01:11pm",
+					"start_time": "Jul 08 2020 1:11pm",
 					"end_time": "Jul 08 2020 3:00PM"
 				},
                 {
@@ -105,6 +126,10 @@
                 {
 					"start_time": "Jul 02 2020 03:11pm",
 					"end_time": "Jul 02 2020 5:00PM"
+                },
+                {
+					"start_time": "Jul 09 2020 11:11AM",
+					"end_time": "Jul 09 2020 11:00PM"
 				}
 			
 			]
