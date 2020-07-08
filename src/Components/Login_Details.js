@@ -101,7 +101,7 @@ import Calendar from "./Calendar"
                     <div className="card" style={{ borderRadius:"1.25rem",boxShadow: "0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) "}}>
                         <div className="card-body" style={{boxShadow: "0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) "}}>
        
-                            <div style={{fontFamily:"Arial",fontSize:"10px",color:"#1569C7" }}><span style={{color:"#ff3399"}}>Start Time: <b>{x.start_time} -- </b></span> End Time <b>{x.end_time}</b> </div>
+                            <div style={{fontFamily:"Arial",fontSize:"14px",color:"#1569C7" }}><span style={{color:"#ff3399"}}><b>Start Time: {x.start_time} -- </b></span> <b>End Time: {x.end_time}</b> </div>
 
                         </div>
                     </div>
@@ -113,7 +113,7 @@ import Calendar from "./Calendar"
             
             {this.state.isActive ? (<Calendar selectChapter ={this.handleDayClick} sendDates={sendDates}/>) : null }
 
-            {this.state.isShow ? (<button onClick={this.handleShow}>Show Calendar</button>): null}
+            {this.state.isShow ? (<button className="btn btn-success" onClick={this.handleShow}>Show Calendar</button>): null}
          
             
             </div>
